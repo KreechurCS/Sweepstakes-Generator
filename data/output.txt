@@ -1,0 +1,32 @@
+Colin	Germany
+Colin	Spain
+Colin	Argentina
+Colin	Iceland
+Colin	Saudi Arabia
+Colin	France
+Colin	Croatia
+Colin	Serbia
+Frank	Korea
+Frank	Costa Rica
+Frank	Australia
+Frank	Colombia
+Frank	Mexico
+Frank	Denmark
+Frank	Uruguay
+Frank	Portugal
+john	Poland
+john	Tunisia
+john	Brazil
+john	England
+john	Senegal
+john	Morocco
+john	Sweden
+john	Nigeria
+Steve	Peru
+Steve	Japan
+Steve	Russia
+Steve	Panama
+Steve	Switzerland
+Steve	Egypt
+Steve	Iran
+Steve	Belgium
